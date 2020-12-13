@@ -1,0 +1,2 @@
+# ApiExchangeRate
+Example
