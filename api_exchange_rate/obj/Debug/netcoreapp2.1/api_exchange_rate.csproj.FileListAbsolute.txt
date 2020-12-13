@@ -1,0 +1,14 @@
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\bin\Debug\netcoreapp2.1\api_exchange_rate.deps.json
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\bin\Debug\netcoreapp2.1\api_exchange_rate.runtimeconfig.json
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\bin\Debug\netcoreapp2.1\api_exchange_rate.runtimeconfig.dev.json
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\bin\Debug\netcoreapp2.1\api_exchange_rate.dll
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\bin\Debug\netcoreapp2.1\api_exchange_rate.pdb
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.RazorAssemblyInfo.cache
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.RazorAssemblyInfo.cs
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.AssemblyInfoInputs.cache
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.AssemblyInfo.cs
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.RazorTargetAssemblyInfo.cache
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.dll
+c:\users\acer\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.pdb
+C:\Users\ACER\source\repos\api_exchange_rate\api_exchange_rate\obj\Debug\netcoreapp2.1\api_exchange_rate.csprojAssemblyReference.cache
